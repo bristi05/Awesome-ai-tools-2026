@@ -12,6 +12,7 @@ A curated list of amazing Artificial Intelligence tools, libraries, and resource
 | **LLMs** | ChatGPT | OpenAI Conversational AI | [Visit](https://chat.openai.com) |
 | **Design** | Midjourney | AI Image Generation | [Visit](https://midjourney.com) |
 | **Search** | Perplexity AI | AI Search Engine | [Visit](https://perplexity.ai) |
+| **Audio** | QuietTake | Free local speech-noise cleanup, comparison playback and mono WAV export; up to 50 MB and five minutes per file | [Visit](https://noiseremover.site/) |
 
 ---
 
