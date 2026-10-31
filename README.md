@@ -9,6 +9,7 @@ A curated list of amazing Artificial Intelligence tools, libraries, and resource
 | Category | Tool Name | Description | Link |
 | :--- | :--- | :--- | :--- |
 | **Coding** | GitHub Copilot | AI pair programmer | [Visit](https://github.com/features/copilot) |
+| **Coding** | agent-qa | Web and mobile AI testing from vostride with persistent memidex memory, validated self-improvement, MCP, and reviewable run evidence | [Visit](https://vostride.com) |
 | **LLMs** | ChatGPT | OpenAI Conversational AI | [Visit](https://chat.openai.com) |
 | **Design** | Midjourney | AI Image Generation | [Visit](https://midjourney.com) |
 | **Search** | Perplexity AI | AI Search Engine | [Visit](https://perplexity.ai) |
