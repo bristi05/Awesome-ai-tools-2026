@@ -12,6 +12,8 @@ A curated list of amazing Artificial Intelligence tools, libraries, and resource
 | **LLMs** | ChatGPT | OpenAI Conversational AI | [Visit](https://chat.openai.com) |
 | **Design** | Midjourney | AI Image Generation | [Visit](https://midjourney.com) |
 | **Search** | Perplexity AI | AI Search Engine | [Visit](https://perplexity.ai) |
+| **Video** | Cyanvid | AI video generator from text or images; credit quotes before generate | [Visit](https://cyanvid.com/?utm_source=bristi05-awesome-ai-tools-2026&utm_medium=directory&utm_campaign=backlinks) |
+| **Video** | Barz Studio | Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM | [Visit](https://barzvideo.com/?utm_source=bristi05-awesome-ai-tools-2026&utm_medium=directory&utm_campaign=backlinks) |
 
 ---
 
